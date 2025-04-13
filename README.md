@@ -1,2 +1,2 @@
 # Full-Stack-
-Practice basic level websites
+Practice of basic level websites.
